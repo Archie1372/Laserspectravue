@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/bulb-off.svg</file>
+        <file>resources/bulb-on.svg</file>
+        <file>resources/floppy-disk.svg</file>
+        <file>resources/light-bulb-13577.png</file>
+        <file>resources/save-file-5330.png</file>
+        <file>resources/bulb-3658.png</file>
+        <file>resources/on.png</file>
+        <file>resources/off.png</file>
+        <file>resources/save.png</file>
+        <file>resources/average.png</file>
+        <file>resources/hold.png</file>
+
+    </qresource>
+</RCC>
